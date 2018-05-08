@@ -1,6 +1,8 @@
-####portsf from the audio programming book
+C++ port of portsf from the audio programming book
 
-Copyright (c) 2009,2010 Richard Dobson
+Copyright of portsfcpp (c) 2018, Armand Rochette
+
+Copyright of portsf (c) 2009,2010 Richard Dobson
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
